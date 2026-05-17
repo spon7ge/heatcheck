@@ -1,4 +1,4 @@
-# How HeatCheck Works (Like You're 5)
+# How HeatCheck Works
 
 You're trying to answer one question: **"Will this NBA player score more or less than X points tonight?"**
 

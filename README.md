@@ -72,7 +72,7 @@ markov_chain_pts/
 ├── app.py        # Streamlit UI
 ├── markov.py     # Markov chain engine and Monte Carlo simulation
 ├── helper.py     # Data loading, quarter scoring, DEF_RATING joins
-├── req.txt       # Python dependencies
+├── requirements.txt       # Python dependencies
 ├── WORKFLOW.md   # Pipeline diagram and design notes
 └── data/         # Season parquet and CSV files (not included)
 ```

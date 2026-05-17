@@ -17,10 +17,10 @@ See [WORKFLOW.md](WORKFLOW.md) for a detailed pipeline diagram.
 ### Requirements
 
 - Python 3.10+
-- Dependencies listed in `req.txt`
+- Dependencies listed in `requirements.txt`
 
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 
 ### Data
